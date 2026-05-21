@@ -8,6 +8,9 @@
 ![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=flat&logo=railway&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
 ![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=flat&logo=stripe&logoColor=white)
+<img width="2878" height="1538" alt="Screenshot 2026-05-14 152320" src="https://github.com/user-attachments/assets/040d824b-230c-4d49-ad20-2e126c33dbae" />
+<img width="2876" height="1544" alt="Screenshot 2026-05-14 152421" src="https://github.com/user-attachments/assets/647230eb-b2ae-4461-9e27-6c3a0ac03b68" />
+<img width="2874" height="1538" alt="Screenshot 2026-05-14 152151" src="https://github.com/user-attachments/assets/b23082e0-f297-4bf0-b446-14fbcdc39581" />
 
 **Live product:** [getrefundradar.com](https://getrefundradar.com)
 
@@ -132,10 +135,9 @@ This was a solo full-stack build completed in approximately 3 months while atten
 
 ## About
 
-Built by Miles — founder of [Intrusight LLC](https://intrusightsecurity.com), student at the University of Georgia, and full-stack developer with experience across SaaS, mobile apps, and cybersecurity tooling.
+Built by Miles — MIS student at the University of Georgia, and full-stack developer with experience across SaaS, ML, and AI.
 
 - Website: [getrefundradar.com](https://getrefundradar.com)
-- Cybersecurity: [intrusightsecurity.com](https://intrusightsecurity.com)
 
 ---
 
